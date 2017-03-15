@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\LinKun\AndroidStudioProjects\AppOffer_2.4.9_Demo\app\libs\AppOffer_2.4.9.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2e3b95991414c07dad6233c09aef049b91d4650c">
+        <dex dex="C:\Users\LinKun\AndroidStudioProjects\AppOffer_2.4.9_Demo\app\build\intermediates\pre-dexed\debug\AppOffer_2.4.9_7042211b8f04db032bac422676477e901cfab0cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\LinKun\AndroidStudioProjects\AppOffer_2.4.9_Demo\app\libs\libammsdk.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="C:\Users\LinKun\AndroidStudioProjects\AppOffer_2.4.9_Demo\app\build\intermediates\pre-dexed\debug\libammsdk_425e9320b8700063eb1b112e2d37c412a7073321.jar" />
+    </item>
+
+</items>

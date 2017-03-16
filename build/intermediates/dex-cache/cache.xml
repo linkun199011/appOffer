@@ -2,18 +2,40 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\LinKun\AndroidStudioProjects\AppOffer_2.4.9_Demo\app\libs\AppOffer_2.4.9.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="2e3b95991414c07dad6233c09aef049b91d4650c">
-        <dex dex="C:\Users\LinKun\AndroidStudioProjects\AppOffer_2.4.9_Demo\app\build\intermediates\pre-dexed\debug\AppOffer_2.4.9_7042211b8f04db032bac422676477e901cfab0cd.jar" />
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/appOffer/app/libs/libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="/home/linkun/workspace/github/appOffer/app/build/intermediates/transforms/dex/debug/folders/1000/2/libammsdk_f413e79f0f6c4a07c5c58277e2b13e13a8a6c0ca/classes.dex" />
     </item>
     <item
-        jar="C:\Users\LinKun\AndroidStudioProjects\AppOffer_2.4.9_Demo\app\libs\libammsdk.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
-        <dex dex="C:\Users\LinKun\AndroidStudioProjects\AppOffer_2.4.9_Demo\app\build\intermediates\pre-dexed\debug\libammsdk_425e9320b8700063eb1b112e2d37c412a7073321.jar" />
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/appOffer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f8c81b3a667c4bcfee3efde73216431949f1bfab">
+        <dex dex="/home/linkun/workspace/github/appOffer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_45e2c7e755a62d6e8506ca23daf04b7f260b4f25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/appOffer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1b438739082444c6daa9b4d403e27d2a8ef7a3d0">
+        <dex dex="/home/linkun/workspace/github/appOffer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_300eea6f4dda32ecdd99b55ef21cfb9dd8a319f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linkun/workspace/github/appOffer/app/libs/AppOffer_2.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2e3b95991414c07dad6233c09aef049b91d4650c">
+        <dex dex="/home/linkun/workspace/github/appOffer/app/build/intermediates/transforms/dex/debug/folders/1000/2/AppOffer_2.4.9_7e021edc9551d9afa0b90316a28c28d0de38b325/classes.dex" />
     </item>
 
 </items>

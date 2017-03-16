@@ -1,34 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_bg.jpg",
-        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\src\\main\\res\\drawable-hdpi\\loading_bg.jpg"
-    },
-    {
-        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\close.png",
-        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\src\\main\\res\\drawable-hdpi\\close.png"
-    },
-    {
-        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\detail_bg.9.png",
-        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\src\\main\\res\\drawable-hdpi\\detail_bg.9.png"
-    },
-    {
-        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handle_up.9.png",
-        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\src\\main\\res\\drawable-hdpi\\handle_up.9.png"
-    },
-    {
-        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\item_bg.9.png",
-        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\src\\main\\res\\drawable-hdpi\\item_bg.9.png"
-    },
-    {
-        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bg.png",
-        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\src\\main\\res\\drawable-hdpi\\title_bg.png"
-    },
-    {
-        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\handle_down.9.png",
-        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\src\\main\\res\\drawable-hdpi\\handle_down.9.png"
-    },
-    {
-        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\down_ico.png",
-        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\src\\main\\res\\drawable-hdpi\\down_ico.png"
+        "merged": "/home/linkun/workspace/github/appOffer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/loading_bg.jpg",
+        "source": "/home/linkun/workspace/github/appOffer/app/src/main/res/drawable-hdpi/loading_bg.jpg"
     }
 ]

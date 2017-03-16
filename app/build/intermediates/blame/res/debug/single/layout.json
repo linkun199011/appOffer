@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "/home/linkun/workspace/github/appOffer/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/linkun/workspace/github/appOffer/app/src/main/res/layout/main.xml"
     },
     {
-        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
-        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\src\\main\\res\\layout\\detail.xml"
+        "merged": "/home/linkun/workspace/github/appOffer/app/build/intermediates/res/merged/debug/layout/slidewall.xml",
+        "source": "/home/linkun/workspace/github/appOffer/app/src/main/res/layout/slidewall.xml"
     },
     {
-        "merged": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slidewall.xml",
-        "source": "C:\\Users\\LinKun\\AndroidStudioProjects\\AppOffer_2.4.9_Demo\\app\\src\\main\\res\\layout\\slidewall.xml"
+        "merged": "/home/linkun/workspace/github/appOffer/app/build/intermediates/res/merged/debug/layout/detail.xml",
+        "source": "/home/linkun/workspace/github/appOffer/app/src/main/res/layout/detail.xml"
     }
 ]

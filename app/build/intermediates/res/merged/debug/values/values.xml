@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="transparent_background">#99000000</color>
-    <declare-styleable name="RoundProgressBar"><attr format="color" name="roundColor"/><attr format="color" name="roundProgressColor"/><attr format="dimension" name="roundWidth"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="integer" name="max"/><attr format="boolean" name="textIsDisplayable"/><attr name="style"><enum name="STROKE" value="0"/><enum name="FILL" value="1"/></attr></declare-styleable>
+    <declare-styleable name="RoundProgressBar"><attr format="color" name="roundColor"/><attr format="color" name="roundProgressColor"/><attr format="dimension" name="roundWidth"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="integer" name="max"/><attr format="boolean" name="textIsDisplayable"/><attr name="style">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+        </attr></declare-styleable>
     <string name="appOfferList">AppOffer</string>
     <string name="app_name">Demo2.4.9</string>
     <string name="awardPoints">AwardPoints(+10)</string>

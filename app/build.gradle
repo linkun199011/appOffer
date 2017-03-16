@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 19
-    buildToolsVersion "23.0.3"
+    compileSdkVersion 24
+    buildToolsVersion "24.0.3"
 
     defaultConfig {
         applicationId "cn.waps.d249"
-        minSdkVersion 4
-        targetSdkVersion 4
+        minSdkVersion 15
+        targetSdkVersion 21
     }
 
     buildTypes {
